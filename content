@@ -1,0 +1,18 @@
+Day 1:
+Akshat@apicletech.com
+https://vimeo.com/700202539
+https://drive.google.com/drive/folders/1SI0l_PXJJjUymhGEvJNXR_2tDAv20P-2?usp=sharing
+
+Day 2:
+GitHub Account creation : https://www.youtube.com/watch?v=yNwhAfqTXQk
+Git installation: https://www.youtube.com/watch?v=7Ve2813mt_A&t=17s
+https://github.com/akshu20791/Books
+
+Day 3: 
+"-u" is to tell git to establish a relationship between our local branch and the origin's branch. It ties up our local branch (here master) with the master branch of the remote or origin which is sitting on github. Using '-u' is a one time process. From then on we can use just "git push" instead of "git push -u origin master"
+Create AWS Account : https://www.youtube.com/watch?v=P7hVdusJF7I
+
+Day 4:
+vi : https://www.youtube.com/watch?v=KmixRXUdy0A&t=224s
+https://vimeo.com/manage/videos/697836338
+https://vimeo.com/714166384
